@@ -1,6 +1,6 @@
 # Exanvub
 
-Welcome to the GitHub organization page for **Exanvub**, the Department of Experimental Anatomy. Our research group is dedicated to fundamental research in topographical, functional, and clinical anatomy, with a primary focus on the human body and its composition.
+Welcome to the GitHub organization page for **Exanvub**, the Department of Experimental Anatomy at the Vrije Universiteit Brussel (VUB). Our research group is dedicated to fundamental research in topographical, functional, and clinical anatomy, with a primary focus on the human body and its composition.
 
 ## Research Lines
 
@@ -18,16 +18,6 @@ The body composition research line consists of two sublines, focusing on methodo
 
 The third research line addresses anatomical questions that arise from the clinical field, with a specific focus on anatomical variation and its clinical relevance. Our collaboration with SOMT (Amersfoort, Netherlands) allows us to study the clinical implications of anatomical variability, thereby enhancing our understanding of functional musculoskeletal anatomy.
 
-## Future Directions
-
-While expanding our organization, we remain committed to our core strength, the study of macroscopic anatomy. Going forward, we have outlined the following objectives for each research line:
-
-- **Joint Kinematics Research Line**: We will leverage our collaboration network to deepen our understanding of cervical spine kinematics, ensuring continued advancements in this field.
-
-- **Body Composition Research Line**: Collaborating with national and international partners, we will further investigate muscle quality and quantity assessment, contributing to the understanding of functional body composition.
-
-- **Functional Musculoskeletal Anatomy Research Line**: By focusing on anatomical variability and its clinical relevance, in cooperation with SOMT, we will uncover new insights that have practical applications in the clinical setting.
-
 ## Join Us
 
 If you are passionate about anatomy research and would like to contribute to our organization, please feel free to explore our repositories and projects. We welcome collaboration and are open to new ideas and partnerships.
@@ -35,5 +25,3 @@ If you are passionate about anatomy research and would like to contribute to our
 For more information, you can reach out to our organization's administrators and members through GitHub.
 
 Thank you for your interest in Exanvub!
-
-*Note: This README.md is a fictional example and does not represent an actual GitHub organization. It is created based on the provided information.*
